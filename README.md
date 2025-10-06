@@ -1,2 +1,2 @@
 # Uber-Data-analysis-
-This dashboard developed using Powerbi and exel
+This dashboard developed using Powerbi and excel
